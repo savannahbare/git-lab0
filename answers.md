@@ -28,4 +28,7 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 Answer 10: No
-Answer 11: It 
+Answer 11: It shows my username and password and says that "everything is up-to-date".
+Answer 12: Yes
+Answer 13: .  ..  git-lab-2  Labs
+
